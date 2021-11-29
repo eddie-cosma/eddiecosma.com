@@ -1,0 +1,86 @@
+baseURL = 'http://eddiecosma.com/'
+languageCode = 'en-us'
+title = 'eddie_cosma'
+author = 'Eddie Cosma'
+copyright = 'Copyright © 2021 Eddie Cosma'
+paginate = 3
+enableInlineShortcodes = true
+ignoreErrors = ['error-remote-getjson']
+ignoreFiles = ['templates/*']
+
+theme = 'risotto'
+sectionPagesMenu = 'main'
+
+[params]
+
+[params.theme]
+palette = 'gruvbox-dark'
+mode = 'dark-mode'
+
+[params.about]
+title = 'Eddie Cosma'
+description = '![Eddie](/img/eddie.png) Pharmacist by trade. Trying to bridge the gap between healthcare and technology from the comfort of the hospital basement.'
+
+[[params.socialLinks]]
+icon = 'fab fa-github'
+title = 'GitHub'
+url = 'https://github.com/eddie-cosma'
+
+[[params.socialLinks]]
+icon = 'fab fa-linkedin'
+title = 'LinkedIn'
+url = 'https://www.linkedin.com/in/edwardcosma'
+
+[[params.socialLinks]]
+icon = 'fab fa-instagram'
+title = 'Instagram'
+url = 'https://www.instagram.com/eddie_cosma/'
+
+[menu]
+
+[[menu.main]]
+identifier = 'projects'
+name = 'Projects'
+url = '/projects/'
+weight = 10
+
+[[menu.main]]
+identifier = 'contact'
+name = 'Contact'
+url = '/contact/'
+weight = 20
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
