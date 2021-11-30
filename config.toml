@@ -1,37 +1,35 @@
 baseURL = 'http://eddiecosma.com/'
 languageCode = 'en-us'
-defaultcontentlanguage = 'en'
 title = 'eddie_cosma'
-author = 'Eddie Cosma'
-paginate = 20
+copyright = '© Eddie Cosma'
+paginate = 5
 enableInlineShortcodes = true
 ignoreFiles = ['templates/*']
-theme = 'hugo-coder'
+theme = 'archie'
+
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
 [params]
-author = 'Eddie Cosma'
-info = 'Pharmacy Informatics Specialist'
-description = "Eddie Cosma's personal website"
-keywords = 'blog,developer,personal'
-avatarurl = '/img/eddie.png'
-colorScheme = 'auto'
-since = '2017'
-# customCSS = ['css/custom.css']
+mode = 'auto'
+useCDN = false
+subtitle = 'My website'
 
 [[params.social]]
-icon = 'fa fa-github fa-2x'
+icon = 'github'
 name = 'GitHub'
 url = 'https://github.com/eddie-cosma'
 weight = 10
 
 [[params.social]]
-icon = 'fa fa-linkedin fa-2x'
+icon = 'linkedin'
 name = 'LinkedIn'
 url = 'https://www.linkedin.com/in/edwardcosma'
 weight = 20
 
 [[params.social]]
-icon = 'fa fa-instagram fa-2x'
+icon = 'instagram'
 name = 'Instagram'
 url = 'https://www.instagram.com/eddie_cosma/'
 weight = 30
