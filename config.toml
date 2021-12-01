@@ -14,7 +14,7 @@ pygmentscodefencesguesssyntax = true
 [params]
 mode = 'auto'
 useCDN = false
-subtitle = 'My website'
+subtitle = 'Trying to bridge the gap between healthcare and technology from the comfort of the hospital basement.'
 
 [[params.social]]
 icon = 'github'
@@ -35,12 +35,22 @@ url = 'https://www.instagram.com/eddie_cosma/'
 weight = 30
 
 [[menu.main]]
-name = 'Projects'
+name = 'blog'
+url = '/'
+weight = 5
+
+[[menu.main]]
+name = 'projects'
 url = '/projects/'
 weight = 10
 
 [[menu.main]]
-name = 'Contact'
+name = 'about'
+url = '/about/'
+weight = 15
+
+[[menu.main]]
+name = 'contact'
 url = '/contact/'
 weight = 20
 

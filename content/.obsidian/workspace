@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projects/_index.md",
+            "file": "projects.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/_index.md",
+                "file": "projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,13 @@
   },
   "active": "814819abe496af45",
   "lastOpenFiles": [
+    "projects.md",
+    "posts/Using Excel to access RxNorm.md",
     "projects/_index.md",
-    "_index.md",
+    "posts/_index.md",
+    "posts/Converting between 10– and 11– digit NDCs.md",
     "contact.md",
     "templates/default.md",
-    "Untitled.md"
+    "about.md"
   ]
 }
