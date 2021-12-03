@@ -112,7 +112,7 @@ To make life a little easier, you can type a 10– or 11–digit NDC number into
 			rxNorm.open("GET", "https://rxnav.nlm.nih.gov/REST/ndcstatus?ndc=".concat(inputNDC), false);
 			rxNorm.send();
 		} </script>
-<form id="ndcConverter"><table><tr><td>Mode selector</td><td><input type="radio" name="mode" value="10to11" checked="checked" onclick="updateMode()"> 10&rarr;11<br><input type="radio" name="mode" value="11to10" onclick="updateMode()">11&rarr;10</td></tr><tr><td><span id="inputLen">10</span>-digit NDC</td><td><input type="text" id="ndcIn" size="13" maxlength="10" name="NDC" onkeyup="convertNDC()"></td></tr><tr><td><span id="outputLen">11</span>-digit NDC</td><td><span id="resultNDC">&nbsp;</span></td></tr></table></form>
+<form id="ndcConverter"><table><tr><td>Mode selector</td><td><input type="radio" name="mode" value="10to11" checked="checked" onclick="updateMode()">10&rarr;11<br><input type="radio" name="mode" value="11to10" onclick="updateMode()">11&rarr;10</td></tr><tr><td><span id="inputLen">10</span>-digit NDC</td><td><input type="text" id="ndcIn" size="13" maxlength="10" name="NDC" onkeyup="convertNDC()"></td></tr><tr><td><span id="outputLen">11</span>-digit NDC</td><td><span id="resultNDC">&nbsp;</span></td></tr></table></form>
  
 ## Conclusion
 The 10-digit NDC format can lead to ambiguity if dashes are not present, like in the case of scanned barcode data. The 11-digit NDC format removes that ambiguity, but the conversion between formats can be difficult and requires a database of known NDCs numbers.
