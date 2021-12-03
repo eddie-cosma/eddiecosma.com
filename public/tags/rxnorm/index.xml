@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RxNorm on eddie_cosma</title>
-    <link>http://eddiecosma.com/tags/rxnorm/</link>
+    <link>https://eddiecosma.com/tags/rxnorm/</link>
     <description>Recent content in RxNorm on eddie_cosma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Eddie Cosma</copyright>
-    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://eddiecosma.com/tags/rxnorm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://eddiecosma.com/tags/rxnorm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Excel to access RxNorm</title>
-      <link>http://eddiecosma.com/posts/using-excel-to-access-rxnorm/</link>
+      <link>https://eddiecosma.com/posts/using-excel-to-access-rxnorm/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://eddiecosma.com/posts/using-excel-to-access-rxnorm/</guid>
+      <guid>https://eddiecosma.com/posts/using-excel-to-access-rxnorm/</guid>
       <description>Background Let&amp;rsquo;s say you work in an institutional pharmacy that performs a physical inventory every December. This year, you discover there&amp;rsquo;s a large discrepancy between the value of your current medication stock compared to the value of last year&amp;rsquo;s stock. Apparently, some of the data on the handheld computers you use to perform inventory became corrupted before everything could be compiled into one large Excel file. Now you&amp;rsquo;re missing a few hundred line items, the end of the year is coming up, and Accounting is breathing down your neck.</description>
     </item>
     
