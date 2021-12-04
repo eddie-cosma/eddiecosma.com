@@ -184,7 +184,7 @@
 			rxNorm.open("GET", "https://rxnav.nlm.nih.gov/REST/ndcstatus?ndc=".concat(inputNDC), false);
 			rxNorm.send();
 		} </script>
-<form id="ndcConverter"><table><tr><td>Mode selector</td><td><input type="radio" name="mode" value="10to11" checked="checked" onclick="updateMode()"> 10&rarr;11<br><input type="radio" name="mode" value="11to10" onclick="updateMode()">11&rarr;10</td></tr><tr><td><span id="inputLen">10</span>-digit NDC</td><td><input type="text" id="ndcIn" size="13" maxlength="10" name="NDC" onkeyup="convertNDC()"></td></tr><tr><td><span id="outputLen">11</span>-digit NDC</td><td><span id="resultNDC">&nbsp;</span></td></tr></table></form>
+<form id="ndcConverter"><table><tr><td>Mode selector</td><td><input type="radio" name="mode" value="10to11" checked="checked" onclick="updateMode()">10&rarr;11<br><input type="radio" name="mode" value="11to10" onclick="updateMode()">11&rarr;10</td></tr><tr><td><span id="inputLen">10</span>-digit NDC</td><td><input type="text" id="ndcIn" size="13" maxlength="10" name="NDC" onkeyup="convertNDC()"></td></tr><tr><td><span id="outputLen">11</span>-digit NDC</td><td><span id="resultNDC">&nbsp;</span></td></tr></table></form>
 <h2 id="conclusion">Conclusion</h2>
 <p>The 10-digit NDC format can lead to ambiguity if dashes are not present, like in the case of scanned barcode data. The 11-digit NDC format removes that ambiguity, but the conversion between formats can be difficult and requires a database of known NDCs numbers.</p>
 
@@ -206,7 +206,7 @@
 	</article>
 </main>
 <footer>
-<hr><a class="soc" href="https://github.com/eddie-cosma" title="GitHub"><i data-feather="github"></i></a>|<a class="soc" href="https://www.linkedin.com/in/edwardcosma" title="LinkedIn"><i data-feather="linkedin"></i></a>|<a class="soc" href="https://www.instagram.com/eddie_cosma/" title="Instagram"><i data-feather="instagram"></i></a>|⚡️
+<hr><a class="soc" href="https://github.com/eddie-cosma" title="GitHub"><i data-feather="github"></i></a>|<a class="soc" href="https://www.linkedin.com/in/edwardcosma" title="LinkedIn"><i data-feather="linkedin"></i></a>|<a class="soc" href="https://twitter.com/Eddie_Cosma" title="Twitter"><i data-feather="twitter"></i></a>|<a class="soc" href="https://www.instagram.com/eddie_cosma/" title="Instagram"><i data-feather="instagram"></i></a>|⚡️
 	2021  © Eddie Cosma |  <a href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
 </footer>
 
