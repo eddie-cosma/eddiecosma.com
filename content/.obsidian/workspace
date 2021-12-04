@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projects.md",
+            "file": "posts/Test.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects.md",
+                "file": "posts/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "814819abe496af45",
   "lastOpenFiles": [
+    "posts/Test.md",
     "projects.md",
     "posts/Using Excel to access RxNorm.md",
     "projects/_index.md",
