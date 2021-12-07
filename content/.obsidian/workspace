@@ -7,8 +7,11 @@
         "id": "814819abe496af45",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "disclaimer.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "disclaimer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +88,10 @@
   },
   "active": "814819abe496af45",
   "lastOpenFiles": [
+    "disclaimer.md",
+    "posts/Using Excel to access RxNorm.md",
     "posts/Test.md",
     "projects.md",
-    "posts/Using Excel to access RxNorm.md",
     "projects/_index.md",
     "posts/_index.md",
     "posts/Converting between 10– and 11– digit NDCs.md",
