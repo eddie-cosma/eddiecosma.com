@@ -13,7 +13,7 @@ def update():
     if github_data.get("repository", {}).get("name") == "eddiecosma.com":
         www_dir = Path('/www')
         tmp_dir = Path('/tmp/www')
-        target_subdir = 'public'
+        target_subdir = 'website/public'
 
         if not www_dir.exists():
             print("FATAL: The webroot must be mounted to /www")
