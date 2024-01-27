@@ -29,11 +29,6 @@ url = 'https://www.linkedin.com/in/edwardcosma'
 weight = 20
 
 [[params.social]]
-icon = 'twitter'
-name = 'Twitter'
-url = 'https://twitter.com/Eddie_Cosma'
-
-[[params.social]]
 icon = 'instagram'
 name = 'Instagram'
 url = 'https://www.instagram.com/eddie_cosma/'
