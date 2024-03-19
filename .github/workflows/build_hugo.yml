@@ -31,4 +31,3 @@ jobs:
           author_email: eddie.cosma@gmail.com
           message: 'Hugo build of previous commit'
           pathspec_error_handling: exitImmediately
-          pull: 'NO-PULL'
