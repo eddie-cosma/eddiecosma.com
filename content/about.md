@@ -1,10 +1,20 @@
 ---
 title: About me
 description: 
-date: "2021-11-28"
+date: "2025-04-20"
 draft: false
 ---
-<img src="/img/eddie.png" style="float: right; margin: 5px;">I am a Pharmacy Informatics Specialist at [MetroHealth Medical Center](https://www.metrohealth.org) in Cleveland,&nbsp;OH. I graduated from the College of Pharmacy at [The University of Toledo](http://www.utoledo.edu) and completed a PGY-1 Pharmacy Practice residency at [University Hospitals Cleveland Medical Center](http://www.uhhospitals.org). Outside of pharmacy, I enjoy reading fiction and photographing anything and everything.
+# Hi, I'm Eddie Cosma! 👋
+<img src="/img/eddie.png" style="float: right; margin: 5px;">I'm a pharmacist based in **Cleveland, OH**, with a passion for processing and analyzing healthcare data. I’m particularly interested in leveraging **AI and machine learning** to improve healthcare outcomes. When I’m not exploring data-driven solutions, I enjoy building for the web.
 
-## Curriculum vitae
+### 💻 Tech I Work With
+- 🛠️ Primarily: **Python**, **SQL**, and **HTML/CSS**
+- 🙈 Mysteriously familiar with **MUMPS** (enough to be dangerous)
+
+### 🐍 Community Involvement
+I co-host the **Cleveland Python Meetup** ([CLEpy](https://github.com/CLEpy)), where we share knowledge and nerd out over Python.
+
+💬 Want to connect? Find me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/edwardcosma/).
+
+### 📄 Curriculum vitae
 My CV is available for review here: [Edward_Cosma-CV.pdf](/doc/Edward_Cosma-CV.pdf).
