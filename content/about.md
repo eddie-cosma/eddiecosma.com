@@ -14,7 +14,5 @@ draft: false
 ### 🐍 Community Involvement
 I co-host the **Cleveland Python Meetup** ([CLEpy](https://github.com/CLEpy)), where we share knowledge and nerd out over Python.
 
-💬 Want to connect? Find me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/edwardcosma/).
-
 ### 📄 Curriculum vitae
 My CV is available for review here: [Edward_Cosma-CV.pdf](/doc/Edward_Cosma-CV.pdf).
