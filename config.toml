@@ -35,8 +35,8 @@ url = 'https://www.instagram.com/eddie_cosma/'
 weight = 30
 
 [[menu.main]]
-name = 'blog'
-url = '/'
+name = 'informatics'
+url = '/categories/informatics/'
 weight = 5
 
 [[menu.main]]
