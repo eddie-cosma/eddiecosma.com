@@ -49,11 +49,6 @@ name = 'about'
 url = '/about/'
 weight = 15
 
-[[menu.main]]
-name = 'contact'
-url = '/contact/'
-weight = 20
-
 [taxonomies]
 category = "categories"
 tag = "tags"
